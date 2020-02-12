@@ -1,4 +1,4 @@
-# Sample 01 - Login
+# Auth0 Example Project
 
 The purpose of this article is to demonstrate how simple it is to set up and use the new Single Page Application SDK, and authenticate a user in your application using Auth0's Universal Login Page.
 
@@ -13,7 +13,7 @@ To specify the application client ID and domain, make a copy of `auth_config.jso
 ```json
 {
   "domain": "russhayes.auth0.com",
-  "clientId": "hub0x4hJ7zY0kaO3T2AsUKtnFO2jy8QK"
+  "clientId": "<secret>"
 }
 ```
 
