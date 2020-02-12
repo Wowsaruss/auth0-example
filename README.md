@@ -2,6 +2,8 @@
 
 The purpose of this article is to demonstrate how simple it is to set up and use the new Single Page Application SDK, and authenticate a user in your application using Auth0's Universal Login Page.
 
+Used in conjunction with: https://github.com/Wowsaruss/privacy-policy-example
+
 ## Running the Sample Application
 
 The sample can be run locally, by cloning the repository to your machine and then following the steps below.
